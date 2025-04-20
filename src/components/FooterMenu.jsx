@@ -1,7 +1,7 @@
 import { NavLink } from "react-router";
 import "../styles/HeaderMenu.css";
 
-const HeaderMenu = () => {
+const FooterMenu = () => {
   return (
     <ul className="nav-list">
       <li>
@@ -24,4 +24,4 @@ const HeaderMenu = () => {
     </ul>
   );
 };
-export default HeaderMenu;
+export default FooterMenu;

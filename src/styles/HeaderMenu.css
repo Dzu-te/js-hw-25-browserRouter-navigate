@@ -1,0 +1,13 @@
+.nav-list {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.active {
+  color: #61dafb;
+}
+
+li {
+  font-size: 24px;
+}
